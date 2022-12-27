@@ -1,0 +1,85 @@
+{
+  "Display": {
+    "fps": 60,
+    "width": 960,
+    "height": 540,
+    "title": "TEMPEST RUN",
+    "camera_bob": true,
+    "use_player_art": true,
+    "depth_shade": false
+  },
+  "FontSize": {
+    "title": 64,
+    "option": 36,
+    "info": 24,
+    "score": 30
+  },
+  "Music": {
+    "enabled": true,
+    "volume": 0.5
+  },
+  "Sound": {
+    "enabled": true,
+    "volume": 0.5
+  },
+  "Debug": {
+    "use_neon": true,
+    "fps_test": false,
+    "jumping_enemies": false
+  },
+  "KeyBinds": {
+    "Game": {
+      "jump": [
+        119,
+        1073741906,
+        32
+      ],
+      "left": [
+        97,
+        1073741904
+      ],
+      "right": [
+        100,
+        1073741903
+      ],
+      "slide": [
+        115,
+        1073741905
+      ],
+      "reset": [
+        114
+      ]
+    },
+    "Menu": {
+      "up": [
+        119,
+        1073741906
+      ],
+      "down": [
+        115,
+        1073741905
+      ],
+      "right": [
+        100,
+        1073741903
+      ],
+      "left": [
+        97,
+        1073741904
+      ],
+      "accept": [
+        13,
+        32
+      ],
+      "cancel": [
+        27
+      ]
+    },
+    "Toogle": {
+      "neon": [
+        110
+      ],
+      "profiler": []
+    }
+  }
+}
